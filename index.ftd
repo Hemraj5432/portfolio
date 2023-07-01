@@ -81,7 +81,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: design and create functional and beautiful application with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
